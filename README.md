@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**MaximGordiyenko/MaximGordiyenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">Hi 👋, I'm Maxim Gordiyenko</h1>
+<h3 align="center">I'm a software engineer from Kyiv</h3>
+
+<p align="center">
+  <a href="https://maximgordiyenko.github.io/gmo"><img src='https://image.flaticon.com/icons/svg/3135/3135686.svg' height='50px'/></a>
+  <a href="mailto:mail@maxim.gordiyenko@gmail.com"><img src='https://image.flaticon.com/icons/svg/546/546394.svg' height='50px'/></a>
+  <a href="https://t.me/maximgordiyenko"><img src='https://image.flaticon.com/icons/svg/253/253802.svg' height='50px'/></a>
+  <a href="https://www.linkedin.com/in/maxim-gordiyenko"><img src='https://image.flaticon.com/icons/svg/1383/1383329.svg' height='50px'/></a>
+</p>
