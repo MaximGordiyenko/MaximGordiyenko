@@ -32,7 +32,7 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-### 📖 Latest blog posts
+### 📒 Latest blog posts
 
 <!-- start-blog-posts -->
 - [Sort of array](https://blog.magxgor.com/post/sort-of-array)
@@ -42,10 +42,13 @@
 - [React, Typescript](https://blog.magxgor.com/post/typescript)
 <!-- end-blog-posts -->
 
-### 🌍🇺🇦 Reach me at
+### 🌍🇺🇦🕊 Reach me at
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximGordiyenko)
 [![Portfolio](https://img.shields.io/badge/website-33?style=for-the-badge&logo=About.me&logoColor=black)](https://maximhordiienko.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximGordiyenko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-gordiyenko/)
 [![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/5420542/maxim-gordiyenko)
+<a href="https://www.buymeacoffee.com/maximhordiienko" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
